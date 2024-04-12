@@ -1,7 +1,3 @@
-import sys
-
-sys.path.insert(1, "C:\users\prath\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages\streamlit_option_menu")
-
 from streamlit_option_menu import option_menu
 import streamlit as st
 import pandas as pd
