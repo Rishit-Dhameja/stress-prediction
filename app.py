@@ -82,9 +82,9 @@ if selected == "Home":
             <hr>
             <br>
             <p align='right'>
-                <a href="https://www.github.com/AshNumpy/Sleep-Health-ML-Project" target="_blank">View on GitHub</a>
+                <a href="https://github.com/prathamxd/stress-analyzer" target="_blank">View App code on GitHub</a>
                 <br>
-                <a href="https://public.tableau.com/app/profile/ramazan.erduran1816/viz/StressLevelHealth/Overview" target="_blank">See Dashboard on Tableau</a>
+                <a href="https://github.com/prathamxd/stress-prediction" target="_blank">View Streamlit code on Github</a>
             </p>
             """,
             unsafe_allow_html=True
