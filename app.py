@@ -81,11 +81,6 @@ if selected == "Home":
             </p>
             <hr>
             <br>
-            <p align='right'>
-                <a href="https://github.com/prathamxd/stress-analyzer" target="_blank">View App code on GitHub</a>
-                <br>
-                <a href="https://github.com/prathamxd/stress-prediction" target="_blank">View Streamlit code on Github</a>
-            </p>
             """,
             unsafe_allow_html=True
         )
